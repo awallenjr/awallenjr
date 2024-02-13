@@ -2,8 +2,6 @@
 - 👀 I’m interested in AI, Automation, Cloud, Porgramming Languages, Cyber Security
 - 🌱 I’m currently learning AI and Automation
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me you can't ;)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I come from a background in construction until I taught myself to program.
 
 <!---
